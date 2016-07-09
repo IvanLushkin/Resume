@@ -1,0 +1,5 @@
+Tutorial:
+1. https://www.youtube.com/playlist?list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
+2. https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb
+3. https://git-scm.com/docs/gittutorial
+4. https://githowto.com/ru
